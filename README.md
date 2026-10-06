@@ -1,3 +1,3 @@
 - Hi, I’m Tracy!
 - I’m currently learning SQL and Python
-- Changing careers from Medical Laboratory Technician to a Data Analyst
+- Changing careers from Medical Laboratory Scientist to a Data Scientist
